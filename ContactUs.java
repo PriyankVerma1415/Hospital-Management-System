@@ -14,7 +14,7 @@ public class ContactUs
 
 
         //create contactusframe Jframe
-        final JFrame contactusframe = new JFrame("Contact Us");
+        final JFrame contactusframe = new JFrame("Contact");
         contactusframe.setExtendedState(JFrame.MAXIMIZED_BOTH);
         contactusframe.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         contactusframe.setVisible(true);
